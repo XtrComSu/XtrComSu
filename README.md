@@ -20,5 +20,5 @@
 ---
 
 <p align="center">
-  <code>⎛⎝ fire does not ask permission ⎠⎞</code>
+  <code>⎛⎝ The fire burns with solely with its own permisson. ⎠⎞</code>
 </p>
