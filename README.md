@@ -9,7 +9,7 @@
 
 ---
 
-**<a href="https://xtrcom.xyz">XtrCom</a>** · building the XT-Series — tools engineered for the people, by the people.
+**<a href="https://xtrcom.xyz">XtrCom</a>** · building the XT-Series — tools engineered for the people, by the people. I stand nothing but for liberation
 
 <a href="https://xtrcom.xyz">XtrCom</a> ·
 <a href="https://xtrcom.xyz/xentros.html">XT-Xentros</a> ·
