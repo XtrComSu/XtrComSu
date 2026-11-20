@@ -1,26 +1,15 @@
-<h1 align="center"><a href="https://xtrcom.xyz" style="color:inherit;text-decoration:none">⎛⎝ XtrCom ⎠⎞</a></h1>
+# XtrComSu
 
-<p align="center">Independent developer building open-source Linux, Android, and security tooling.</p>
+I’m an independent developer building local-first developer tools, experimenting with small language models, and working on Android and Linux systems under [XtrCom](https://xtrcom.xyz). I like taking a project far enough to measure what works on real hardware and document where I got stuck.
 
-## What I build
+## Selected work
 
-- Linux and Android systems work, including kernel and graphics research
-- Small developer tools for Termux
-- Privacy and session-security software
+- **[XT-Forge](https://github.com/XtrComSu/xt-forge)** (`XT-OSS`) builds local tooling in Rust, Go, and Python that gives coding agents call-graph context, AST correctness checks, normalized binary diffs, and a sub-1KB MCP gateway. Start with the [quickstart installer](https://github.com/XtrComSu/xt-forge#install-on-linux-macos-and-windows) and the [9-tier benchmark notes](https://github.com/XtrComSu/xt-forge/blob/main/docs/BENCHMARKS.md).
+- **[XT-Luna-Zero](https://github.com/XtrComSu/XT-Luna-Zero)** (`XT-R&D`) is my small mixture-of-experts language-model project built to train from scratch on a single GPU. Read the [194M-parameter sparse decoder report (PDF)](https://github.com/XtrComSu/XT-Luna-Zero/blob/main/paper/XT-Luna-Zero-Architecture.pdf) and inspect the subsequent [375M XT-Luna Core training and evaluation log](https://github.com/XtrComSu/XT-Luna-Zero#measured-results).
+- **[XT-OSS for Exynos 9611](https://github.com/XtrComSu/XT-OSS-Exynos9611)** (`XT-OSS`) collects reproducible Project Infinity X 4.2 (Android 17) build scripts, manifest pins, and memory tuning for Samsung Exynos 9611 hardware. Check the [verified build log](https://github.com/XtrComSu/XT-OSS-Exynos9611/blob/main/docs/BUILD-LOG.md), [four tree deltas](https://github.com/XtrComSu/XT-OSS-Exynos9611#the-four-deltas), and [Galaxy M31 OTA releases](https://github.com/XtrComSu/XT-OSS-Exynos9611/releases).
 
-## Featured projects
+## Index & links
 
-- [XT-Neros](https://github.com/XtrComSu/XT-Neros) — MIT-licensed Chromium extension for Roblox session-cookie management.
-- [XT-AX9](https://github.com/XtrComSu/XT-AX9) — OpenCL compatibility and acceleration research for Exynos 9611, Mali-G72, Android, Termux, and ggml.
-- [command-code-termux](https://github.com/XtrComSu/command-code-termux) — Installer and launcher for running Command Code on Termux.
+Explore the **[XT-Series project index](https://github.com/XtrComSu/XT-Series)** for the rest of my **XT-OSS** open-source utilities, **XT-R&D** hardware and security experiments (`XT-AX9`, `XT-Neros`, `command-code-termux`), and companion repositories.
 
-## Tech stack
-
-C, C++, Python, JavaScript, HTML, CSS, Shell, and Android/Linux kernel tooling.
-
-## Contact
-
-- Website: [xtrcom.xyz](https://xtrcom.xyz)
-- GitHub: [@XtrComSu](https://github.com/XtrComSu)
-- X: [@xtrcom_](https://x.com/xtrcom_)
-- Email: [xtrcom.su@gmail.com](mailto:xtrcom.su@gmail.com)
+[Website](https://xtrcom.xyz) · [XT-R&D Client Lab](https://xtrcom.xyz/commissions) · [Hugging Face](https://huggingface.co/XtrCom) · [X (@xtrcom_)](https://x.com/xtrcom_) · [Email](mailto:xtrcom.su@gmail.com)
